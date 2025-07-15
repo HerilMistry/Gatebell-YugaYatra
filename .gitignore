@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# SQLite database
+backend/gatebell.db
+
+# Test scripts
+backend/test-mongo.js 
